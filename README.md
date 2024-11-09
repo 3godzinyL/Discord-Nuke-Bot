@@ -69,7 +69,8 @@ npm install inquirer@latest
 npm install discord.js inquirer or npm install discord.js
 
 Run the Bot:
-node bot.js
+
+node index.js (in cmd)
 ----
 Login Prompt:
 On startup, the bot will prompt you to enter your bot's token.
