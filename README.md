@@ -117,3 +117,5 @@ Disclaimer
 This bot is meant for educational purposes. Avoid using disruptive features like spamming in real servers without permission.
 ---
 Happy Botting! 🚀
+
+„Discord” „Nuke Bot”  „JavaScript” "Discord-nuke-bot"
